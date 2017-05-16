@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: agoodman
+subtitle: 
 description:
-author: John Doe
-language:
-timezone:
+author: 
+language: zh-tw
+timezone: aisa/Taipei
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://jawayang.github.io/agoodman
+root: /agoodman
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -70,4 +70,4 @@ theme: hiker
 deploy:
   type: git
   repo: git@github.com:jawayang/agoodman.git
-  branch: gh-page
+  branch: gh-pages
